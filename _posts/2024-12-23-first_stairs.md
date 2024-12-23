@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "[1] 사용자 계단 사용 추적 "
+---
+
+### 사용자 계단 사용 추적
+
+  * 어플 사용 매커니즘
+  * 비콘 사용 설명
+  * 코드 구성 및 설명
+  * flutter package download
