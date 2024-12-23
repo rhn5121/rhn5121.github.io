@@ -35,10 +35,3 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
-
-body {
-    margin: 0 auto;
-    padding: 20px; /* 여백 설정 */
-    max-width: 800px; /* 글 영역의 최대 너비 */
-    line-height: 1.6; /* 줄 간격 조정 */
-}
