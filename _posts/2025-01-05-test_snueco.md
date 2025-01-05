@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[3] 개발환경 구축 (flutter 사용) "
+title:  "test 포스팅(삭제예정)"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
